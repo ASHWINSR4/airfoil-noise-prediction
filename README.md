@@ -36,3 +36,8 @@ Then open `NoteBook/airfoil_project.ipynb` and run all cells.
 
 ## Dataset source
 NASA Airfoil Self-Noise dataset (UCI Machine Learning Repository / Kaggle).
+
+## Result plots
+![Predicted vs Actual](images/predicted_vs_actual.png)
+
+![Feature importance](images/feature_importance.png)
