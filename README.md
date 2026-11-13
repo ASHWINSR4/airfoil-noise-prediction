@@ -25,6 +25,14 @@ suction side displacement thickness. Target: SSPL (dB).
 Linear models underfit because the relationships are nonlinear; tree ensembles
 capture them. Frequency and suction-side thickness are the most important features.
 
+## Notebook
+[View the full notebook with outputs](https://nbviewer.org/github/ASHWINSR4/airfoil-noise-prediction/blob/main/NoteBook/airfoil_project.ipynb)
+
 ## How to run
+```bash
 pip install -r requirements.txt
-Open NoteBook/airfoil_project.ipynb and run all cells.
+```
+Then open `NoteBook/airfoil_project.ipynb` and run all cells.
+
+## Dataset source
+NASA Airfoil Self-Noise dataset (UCI Machine Learning Repository / Kaggle).
